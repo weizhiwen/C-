@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  pushbox.cpp
+  推箱子.cpp
+推箱子.cpp(68): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  推箱子.cpp(68): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  推箱子.cpp(68): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  推箱子.cpp(68): note: 此参数用作缓冲区大小
+  正在生成代码
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  推箱子.vcxproj -> E:\实战项目\项目\推箱子\小游戏\Release\推箱子.exe
+  推箱子.vcxproj -> E:\实战项目\项目\推箱子\小游戏\Release\推箱子.pdb (Full PDB)
